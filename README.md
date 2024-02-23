@@ -1,13 +1,13 @@
 
-<p align="center"># 🏠 Hello👋, my name is Olha</p>
-### I am a Junior Frontend Developer.
+<h1 align="center"> Hello👋, my name is Olha</h1>
+I am a Junior Frontend Developer.
 
 
-## 💡 About Me
+💡 About Me
 
 - 📖 I am studying on a fullstack developer course at GoIT company.
 
-## 🔨 Skills
+🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -24,7 +24,7 @@
 
 <br><br><br>
 
-## 📰 Social links
+📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/olha-khamuliak/)
  - [Telegram](https://t.me/olichka_khamuliak)
 
