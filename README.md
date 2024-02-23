@@ -2,7 +2,7 @@
 <h3 align="center">Junior Frontend Developer from Ukraine</h3>
 <br>
 <h2>💡 About Me</h2>
-<h3>📖 I am studying on a fullstack developer course at GoIT company.</h3>
+<h3>📖 I am studying on a Full Stack Developer course at GoIT company.</h3>
 <br>
 <h2>Tech Skills</h2>
  <h3>Frontend</h3>
@@ -11,7 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Skills" align="left" width="60" height="80"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Skills" align="left" width="60" height="80"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 </p>
 <br><br><br>
