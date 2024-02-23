@@ -27,7 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
 </p>
-<br>
+<br><br>
 <h2>Most Used Languages</h2>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SvitlanaHu&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
