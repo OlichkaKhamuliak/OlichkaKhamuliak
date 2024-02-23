@@ -22,6 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 </p>
+<br>
 <h3>System Control</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
