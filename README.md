@@ -16,7 +16,6 @@
 </p>
 <br>
 <h3>Software</h3>
-<br>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -25,13 +24,13 @@
 </p>
 <br>
 <h3>System Control</h3>
-<br>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
 </p>
-<br><br>
+<br>
 <h3>📰 Social links</h3>
+<br>
 <p>- [LinkedIn](https://www.linkedin.com/in/olha-khamuliak/)</p>
 <p>- [Telegram](https://t.me/olichka_khamuliak)</p>
 
