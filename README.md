@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Skills" align="left" width="60" height="80"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 </p>
-<br><br><br>
+<br><br>
 <h3>Software</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>  
