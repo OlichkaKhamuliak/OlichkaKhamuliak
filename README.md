@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hello everyone👋, I'm Olha</h1>
-<h5 align="center" margin-bottom='30px'>I am a Junior Frontend Developer from Ukraine.</h5>
+<h5 align="center">I am a Junior Frontend Developer from Ukraine.</h5>
 
-
+<br><br><br>
 💡 About Me
 
 - 📖 I am studying on a fullstack developer course at GoIT company.
