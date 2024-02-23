@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello👋, my name is Olha</h1>
-I am a Junior Frontend Developer.
+<h5 align="center">I am a Junior Frontend Developer from Ukraine.</h5>
 
 
 💡 About Me
