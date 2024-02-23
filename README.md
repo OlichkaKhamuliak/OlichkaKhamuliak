@@ -1,11 +1,12 @@
 <h1 align="center"> Hello everyone👋, I'm Olha</h1>
-<h3 align="center">I am a Junior Frontend Developer from Ukraine 🇺🇦</h3>
+<h3 align="center">Junior Frontend Developer from Ukraine </h3>
 <br>
 <h2>💡 About Me</h2>
 <h3>📖 I am studying on a fullstack developer course at GoIT company.</h3>
 <br>
 <h2>Tech Skills</h2>
  <h3>Frontend</h3>
+ <br>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
