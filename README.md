@@ -29,6 +29,5 @@
 </p>
 <br><br><br><br>
 <h2>Most Used Languages</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Skills" align="left" width="60" height="80"/> 
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlichkaKhamuliak&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
