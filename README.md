@@ -106,5 +106,3 @@
   src="https://github-readme-stats.vercel.app/api/top-langs?username=OlichkaKhamuliak&show_icons=true&locale=en&layout=compact"
   alt="Most used languages"
 />
- <img src="https://github-profile-trophy.vercel.app/?username=OlichkaKhamuliak" alt="GitHub Trophy"/>
-
