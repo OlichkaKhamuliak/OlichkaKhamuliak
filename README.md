@@ -1,9 +1,9 @@
 <h1 align="center">Hello everyone👋, I'm Olha</h1>
 <h3 align="center">Junior Frontend Developer from Ukraine</h3>
 <br />
-<h2>💡 About Me</h2>
+<!-- <h2>💡 About Me</h2>
 <h3>📖 I am studying on a Full Stack Developer course at GoIT company.</h3>
-<br />
+<br /> -->
 <h2>Tech Skills</h2>
 <h3>Frontend</h3>
 <p>
